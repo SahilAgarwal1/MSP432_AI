@@ -5,3 +5,6 @@
 ### This repo contains all files necessary for the projected to be imported into TI's Code Composer Studio. The board support package is included, however the driver libraries for the MSP432 should be installed from TI's Website
  
  
+## Video Demo
+### Click the image Below for a video demo
+[![Everything Is AWESOME](https://img.youtube.com/vi/1eRLfPeBzQE/0.jpg)](https://www.youtube.com/watch?v=1eRLfPeBzQE "MSP432 AI Demo")
